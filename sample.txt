@@ -1,0 +1,8 @@
+Write a Python program to perform following operations on List.
+Creating a List
+Accessing elements
+Sorting elements
+• Create a class Calculator with a method add() that can take: one value, two values
+and three values and print the sum and to demonstrate the use of polymorphism.
+• Write a program to open an existing file example.txt and display its contents on
+the screen. Implement and demonstrate the core concepts of file handling
